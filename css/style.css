@@ -79,7 +79,8 @@ header{
   background-attachment: fixed; /* Parallax effect */     
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
-  background-size: cover;       /* Parallax effect */
+  background-size: cover;  
+  background-color: #585858;
   color: white;
   height: 400px; 
   background-image: url('../images/header.jpg');
